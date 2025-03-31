@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arthur-0896
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java, DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - mail: arthur.tristram1@gmail.com
+- 👀 I love building MVC applications in Spring and ASP.NET
+- 🌱 I’m currently studying Cloud Computing with AWS as the primary technology.
+- 💞️ I’m looking to collaborate with other enthusiatic coders on any interesting ideas!
+- 📫 How to reach me - mail: arthur.tristram1@gmail.com, Mobile: +1-437-858-8602
 
 <!---
 Arthur-0896/Arthur-0896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
