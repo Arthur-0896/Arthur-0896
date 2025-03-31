@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arthur-0896
+- 👋 Hi, I’m Arthur- A Coder, Gamer and Hospitality specialist!
 - 👀 I love building MVC applications in Spring and ASP.NET
 - 🌱 I’m currently studying Cloud Computing with AWS as the primary technology.
 - 💞️ I’m looking to collaborate with other enthusiatic coders on any interesting ideas!
