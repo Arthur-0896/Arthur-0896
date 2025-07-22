@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Arthur- A Coder, Gamer and Hospitality specialist!
-- 👀 I love building MVC applications in Spring and ASP.NET
-- 🌱 I’m currently studying Cloud Computing with AWS as the primary technology.
+- 👋 Hi, I’m Arthur- A software enginner specializing in MVC frameworks and considerably experienced in frontend frameworks. 
+- 👀 I love building applications in Spring Boot,.NET, Flask & React.
+- 👀 I'm also experienced in AWS and can develop & deploy scalable and resilient applications.
+- 🌱 I’m currently studying Cloud Computing at George Brown College.
 - 💞️ I’m looking to collaborate with other enthusiatic coders on any interesting ideas!
 - 📫 How to reach me - mail: arthur.tristram1@gmail.com, Mobile: +1-437-858-8602
 
