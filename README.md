@@ -3,6 +3,7 @@
 - 👀 I'm also experienced in AWS and can develop & deploy scalable and resilient applications.
 - 🌱 I’m currently studying Cloud Computing at George Brown College.
 - 💞️ I’m looking to collaborate with other enthusiatic coders on any interesting ideas!
+- 🌱 I'm also on the lookout for Software Engineering roles in Canada.
 - 📫 How to reach me - mail: arthur.tristram1@gmail.com, Mobile: +1-437-858-8602
 
 <!---
