@@ -1,6 +1,6 @@
-- Hi, I’m Arthur- A software enginner specializing in Java. 
+- Hi, I’m Arthur- A Software Engineer specializing in Java. 
 - I love building web applications in Java, Spring Boot, and React.
-- My latest project is a Three-Tier Scalable and Resilient ECommerce application deployed in the cloud.
+- My latest project is a Three-Tier scalable and fault tolerant ECommerce web application deployed in the cloud.
 - I'm also experienced in AWS and can develop & engineer cloud solutions.
 - I'm currently on the lookout for Software Engineering roles in Canada.
 - How to reach me - mail: arthur.tristram1@gmail.com, Mobile: +1-437-858-8602
