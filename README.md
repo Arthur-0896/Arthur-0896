@@ -1,6 +1,6 @@
 - Hi, I’m Arthur- A Software Engineer specializing in Java, React & AWS.
 - My latest project is an AI-powered speech summarizer that records audio, transcribes it with AWS Transcribe, and generates concise summaries using Amazon Bedrock.
-- I'm also experienced in AWS and architect cloud solutions.
+- I hold certifications in Java, Linux and AWS.
 - I'm currently on the lookout for Software Engineering roles in Canada.
 - How to reach me - mail: arthur.tristram1@gmail.com, phone: +1-437-858-8602
 - LinkedIn: linkedin.com/in/arthur-tristram
