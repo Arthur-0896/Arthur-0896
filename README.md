@@ -1,4 +1,4 @@
-- Hi, I’m Arthur- A Software Engineer specializing in Java, React & AWS.
+- Hi, I’m Arthur- A Software Engineer specializing in Java, Spring Boot, React & AWS.
 - My latest project is an AI-powered speech summarizer that records audio, transcribes it with AWS Transcribe, and generates concise summaries using Amazon Bedrock.
 - I hold certifications in Java, Linux and AWS.
 - I'm currently on the lookout for Software Engineering roles in Canada.
