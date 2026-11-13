@@ -20,7 +20,7 @@ GitHub Actions · AWS Glue · Amazon Redshift
 ### 🛒 Amazon Pay --- Rewards Program
 
 Contributed to a nationwide rewards platform adopted by **18,000+ retail
-stores across India**, enabling customers to pay and earn rewards
+stores**, enabling customers to pay and earn rewards
 through Amazon Pay at local merchants.
 
 **Technologies:** AWS CDK · AWS SDK for Java · DynamoDB · AWS Lambda ·
