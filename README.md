@@ -1,4 +1,4 @@
-### Software Engineer \| Cloud Platforms \| Java & AWS
+## Software Engineer \| Cloud Platforms \| Java & AWS
 
 I'm a Software Engineer with **5+ years of experience** building and
 supporting enterprise systems across the **banking and e-commerce**
