@@ -7,12 +7,15 @@ platform solutions.
 
 ## Selected Experience & Achievements
 
-### 🏦 Kotak Mahindra Bank --- National Automated Clearing House (NACH)
+### ☁️ BMO --- Amazon Redshift Serverless Proof of Concept
 
-Contributed to the development and maintenance of a payment-processing
-application handling approximately **500,000 transactions per day**.
+Developed a proof of concept to evaluate migration from provisioned
+Amazon Redshift to **Redshift Serverless**. Validated integrations with
+internal enterprise systems and assessed potential cost savings for
+workloads with variable demand.
 
-**Technologies:** Java · Struts · JSP · Hibernate · Oracle
+**Technologies:** AWS CDK · BMO CDK (TypeScript) · Python · AWS Lambda ·
+GitHub Actions · AWS Glue · Amazon Redshift
 
 ### 🛒 Amazon Pay --- Rewards Program
 
@@ -23,15 +26,12 @@ through Amazon Pay at local merchants.
 **Technologies:** AWS CDK · AWS SDK for Java · DynamoDB · AWS Lambda ·
 JUnit · Mockito
 
-### ☁️ BMO --- Amazon Redshift Serverless Proof of Concept
+### 🏦 Kotak Mahindra Bank --- National Automated Clearing House (NACH)
 
-Developed a proof of concept to evaluate migration from provisioned
-Amazon Redshift to **Redshift Serverless**. Validated integrations with
-internal enterprise systems and assessed potential cost savings for
-workloads with variable demand.
+Contributed to the development and maintenance of a payment-processing
+application handling approximately **500,000 transactions per day**.
 
-**Technologies:** AWS CDK · BMO CDK (TypeScript) · Python · AWS Lambda ·
-GitHub Actions · AWS Glue · Amazon Redshift
+**Technologies:** Java · Struts · JSP · Hibernate · Oracle
 
 ## Certifications
 
