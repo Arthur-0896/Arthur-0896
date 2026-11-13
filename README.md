@@ -1,5 +1,3 @@
-# Hi, I'm Arthur 👋
-
 ### Software Engineer \| Cloud Platforms \| Java & AWS
 
 I'm a Software Engineer with **5+ years of experience** building and
