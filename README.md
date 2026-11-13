@@ -37,7 +37,11 @@ GitHub Actions · AWS Glue · Amazon Redshift
 
 ## Certifications
 
-Java · Linux · AWS · Datadog · GitHub Actions
+- Oracle certified Java 8 Associate (1Z0-808)
+- LPI certified Linux Essentials (010-160)
+- AWS certified Cloud Practitioner (CLF-C02)
+- GitHub Actions (GH-200)
+- Datadog Fundamentals
 
 ## Currently
 
